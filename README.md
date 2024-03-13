@@ -1,6 +1,3 @@
-<h2 align="center">Hi 👋</h2>
-
-###
 
 <img src="https://raw.githubusercontent.com/kazai777/kazai777/output/snake.svg" alt="Snake animation" />
 
