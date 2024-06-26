@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">🖥️ I'm a developer with a passion for code and new technologies</p>
 
 ###
