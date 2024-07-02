@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><i>I'm a developer with a passion for code and new technologies</i></p>
+<p align="center"><i>fmt.Println("Hello World!")</i></p>
 
 ###
 
